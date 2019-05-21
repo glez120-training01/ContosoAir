@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/glez120training01/contosoAir/_apis/build/status/glez120-training01.ContosoAir?branchName=master)](https://dev.azure.com/glez120training01/contosoAir/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
